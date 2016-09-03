@@ -26,6 +26,8 @@ body {background:grey transparent;
 
 - The app developed for the first part of the assignment is available at:<br> https://d-roy.shinyapps.io/Shiny2/ <br>
 - Source code for ui.R and server.R files are available on the GitHub:<br> https://github.com/d-roy/DataProducts
+- The current slides deck is available from:<br> https://d-roy.github.io/DDP_Slidify
+- Source code of the deck is availabe on the Github:<br> https://github.com/d-roy/DDP_Slidify
 
 
 --- .class #id
